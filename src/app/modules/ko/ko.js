@@ -7,6 +7,7 @@ function ko() {
 			test
 			test
 			test
+			test
 		</div>
 	)
 }
