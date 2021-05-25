@@ -4,6 +4,7 @@ function ko() {
 	return (
 		<div>
 			ko
+			test
 		</div>
 	)
 }
