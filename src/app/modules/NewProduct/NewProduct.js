@@ -4,6 +4,7 @@ function NewProduct() {
       return (
             <div>
                   1
+                  12345
             </div>
       )
 }

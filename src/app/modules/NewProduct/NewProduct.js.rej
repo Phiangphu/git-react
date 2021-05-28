@@ -1,0 +1,23 @@
+diff a/src/app/modules/NewProduct/NewProduct.js b/src/app/modules/NewProduct/NewProduct.js	(rejected hunks)
+@@ -3,20 +3,7 @@
+ function NewProduct() {
+       return (
+             <div>
+-                  Producu
+-                  Plot
+-                  หกดหก
+-                  หกดหกหกด
+-                  หกดหก
+-                  กเ
+-                  หกเ
+-                  หกดเ
+-                  หกเหก
+-                  หกดหกหกดหกด
+-                  หกด
+-                  Go
+-                  123456
+-                  dear6666
++                  1
+             </div>
+       )
+ }
