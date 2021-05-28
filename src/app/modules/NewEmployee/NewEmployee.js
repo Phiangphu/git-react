@@ -5,6 +5,9 @@ function NewEmployee() {
 		<div>
 			NewEmployee
 			5555
+			6555
+			555+
+			
 		</div>
 	)
 }
