@@ -5,6 +5,7 @@ function NewProduct() {
             <div>
                   Producu
                   Plot
+                  Go
             </div>
       )
 }
