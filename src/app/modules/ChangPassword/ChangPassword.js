@@ -13,12 +13,12 @@ function ChangPassword() {
 			alignItems="center"
 		>
 			<FormikTextField></FormikTextField>
-				<FormikTextField
-					formik={formik}
-					name="test784125456"
-					label="Test"
-					required
-				/>
+			<FormikTextField
+				formik={formik}
+				name="test784125456"
+				label="Test789"
+				required
+			/>
 			<FormikCheckBox></FormikCheckBox>
 			<ViewButton>View</ViewButton>
 		</Grid>
