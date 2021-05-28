@@ -13,7 +13,6 @@ function ChangPassword() {
 			alignItems="center"
 		>
 			<FormikTextField></FormikTextField>
-			<Grid item xs={12} lg={3}>
 				<FormikTextField
 					formik={formik}
 					name="test7841254"
