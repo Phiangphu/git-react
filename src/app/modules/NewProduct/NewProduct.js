@@ -5,9 +5,9 @@ function NewProduct() {
             <div>
                   Producu
                   Plot
+                  Go
                   123456
                   dear6666
-
             </div>
       )
 }
