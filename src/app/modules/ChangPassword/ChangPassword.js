@@ -15,7 +15,7 @@ function ChangPassword() {
 			<FormikTextField></FormikTextField>
 				<FormikTextField
 					formik={formik}
-					name="test7841254567890"
+					name="test"
 					label="Test"
 					required
 				/>
