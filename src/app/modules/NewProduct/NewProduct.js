@@ -3,7 +3,8 @@ import React from 'react'
 function NewProduct() {
       return (
             <div>
-                  Diadora Na Ja
+                  Producu
+                  Plot
             </div>
       )
 }
