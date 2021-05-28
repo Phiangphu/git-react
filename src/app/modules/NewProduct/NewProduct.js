@@ -17,6 +17,7 @@ function NewProduct() {
                   Go
                   123456
                   dear6666
+                  HAHAHAHAHAHA
             </div>
       )
 }
