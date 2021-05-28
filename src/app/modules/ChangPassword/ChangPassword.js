@@ -19,7 +19,6 @@ function ChangPassword() {
 					label="Test"
 					required
 				/>
-			</Grid>
 			<FormikCheckBox></FormikCheckBox>
 			<ViewButton>View</ViewButton>
 		</Grid>
