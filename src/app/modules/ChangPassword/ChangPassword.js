@@ -16,7 +16,7 @@ function ChangPassword() {
 			<Grid item xs={12} lg={3}>
           <FormikTextField
             formik={formik}
-            name="test"
+            name="tes1111111111"
             label="Test"
             required
           />
