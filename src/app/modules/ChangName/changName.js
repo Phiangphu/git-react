@@ -1,9 +1,9 @@
 import React from 'react'
-
+import FormikTextField from '../Common/components/CustomFormik/FormikTextField'
 function changName() {
 	return (
 		<div>
-			Feature ChangName?
+			<FormikTextField></FormikTextField>
 		</div>
 	)
 }
