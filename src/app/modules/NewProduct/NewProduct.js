@@ -14,12 +14,9 @@ function NewProduct() {
                   หกเหก
                   หกดหกหกดหกด
                   หกด
-             
-
                   Go
                   123456
                   dear6666
-
             </div>
       )
 }
