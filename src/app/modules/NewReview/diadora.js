@@ -4,6 +4,7 @@ function diadora() {
     return (
         <div>
             Diadora Na Ja
+            Diadora Na Jaa
         </div>
     )
 }
