@@ -4,6 +4,7 @@ function NewEmployee() {
 	return (
 		<div>
 			NewEmployee
+			5555
 		</div>
 	)
 }
