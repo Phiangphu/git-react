@@ -5,16 +5,9 @@ function NewProduct() {
             <div>
                   Producu
                   Plot
-                  หกดหก
-                  หกดหกหกด
-                  หกดหก
-                  กเ
-                  หกเ
-                  หกดเ
-                  หกเหก
-                  หกดหกหกดหกด
-                  หกด
-                  
+                  Go
+                  123456
+                  dear6666
             </div>
       )
 }
