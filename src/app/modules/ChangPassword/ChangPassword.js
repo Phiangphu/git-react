@@ -14,7 +14,7 @@ function ChangPassword() {
 		>
 			<FormikTextField></FormikTextField>
 			<FormikCheckBox></FormikCheckBox>
-			<ViewButton></ViewButton>
+			<ViewButton>View</ViewButton>
 		</Grid>
 	)
 }
