@@ -1,10 +1,21 @@
 import React from 'react'
+import { Grid } from '@material-ui/core'
+import FormikTextField from '../Common/components/CustomFormik/FormikTextField'
+import FormikCheckBox from '../Common/components/CustomFormik/FormikCheckBox'
+import ViewButton from '../Common/components/Buttons/ViewButton'
 
 function ChangPassword() {
 	return (
-		<div>
-			Feature ChangPassword?
-		</div>
+		<Grid
+			container
+			direction="row"
+			justify="center"
+			alignItems="center"
+		>
+			<FormikTextField></FormikTextField>
+			<FormikCheckBox></FormikCheckBox>
+			<ViewButton></ViewButton>
+		</Grid>
 	)
 }
 
