@@ -6,6 +6,7 @@ function NewProduct() {
                   1
                   12345
                   test
+                  test
             </div>
       )
 }
