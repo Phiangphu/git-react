@@ -7,6 +7,7 @@ function NewProduct() {
                   12345
                   test
                   test
+                  test123
             </div>
       )
 }
