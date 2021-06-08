@@ -4,7 +4,11 @@ function Pages2() {
     return (
         <div>
             Pages 2 Ka...
+
+            gogogo
+
             Test conflict..
+
         </div>
     )
 }
