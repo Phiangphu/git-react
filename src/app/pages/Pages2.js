@@ -8,6 +8,10 @@ function Pages2() {
             gogogo
 
             Test conflict..
+            ko123
+            ko123
+            ko123
+            ko123
 
         </div>
     )
