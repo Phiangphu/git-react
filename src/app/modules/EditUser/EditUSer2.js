@@ -3,11 +3,8 @@ import React from 'react'
 function EditUser()
  {     
     return (        
-         <div>           
-             test 12345  
-             test
-             test
-            
+         <div>
+            Add Edit User Controller - test feature s6
         </div>   
         
         )
